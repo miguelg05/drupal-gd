@@ -1,0 +1,14 @@
+uuid: 733952c8-34bd-4a55-95e4-6d3b9a98319a
+name: Gaceta
+mail: miguel.galindo.05@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: es
+default_langcode: es
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

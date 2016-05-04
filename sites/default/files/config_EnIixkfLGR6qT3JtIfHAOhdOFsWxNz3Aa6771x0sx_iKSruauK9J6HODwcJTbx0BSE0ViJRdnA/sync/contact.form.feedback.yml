@@ -1,0 +1,12 @@
+uuid: fd2feb96-cc18-4d67-9b2c-2340c01f6018
+langcode: es
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Retroalimentación del sitio web'
+recipients:
+  - miguel.galindo.05@gmail.com
+reply: ''
+weight: 0

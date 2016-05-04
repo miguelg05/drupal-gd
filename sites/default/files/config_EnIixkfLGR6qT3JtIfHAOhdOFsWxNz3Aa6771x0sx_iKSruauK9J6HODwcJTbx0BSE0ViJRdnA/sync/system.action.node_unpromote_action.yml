@@ -1,0 +1,13 @@
+uuid: 7aad8002-d418-4479-8866-449494513923
+langcode: es
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: JBptjnfuOMtsdKygklXxoOgeOCTMtQxlkymjnnj-cC0
+id: node_unpromote_action
+label: 'Quitar contenido de la página principal'
+type: node
+plugin: node_unpromote_action
+configuration: {  }
